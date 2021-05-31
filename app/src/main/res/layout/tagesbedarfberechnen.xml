@@ -18,7 +18,7 @@
         android:textColor="@color/black"
         android:textAlignment="center"
         android:textSize="24dp"
-        android:text="Kalorienbedarf "
+        android:text=" Kalorienbedarf "
         android:background="@color/white"
         android:gravity="center_horizontal" />
 
